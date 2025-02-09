@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.log
+scrapy_log.txt
+product_links.json
+instance/
+migrations/
